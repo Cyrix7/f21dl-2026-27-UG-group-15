@@ -217,6 +217,11 @@ tempCodeRunnerFile.py
 # Marimo
 marimo/_static/
 marimo/_lsp/
+
+# images are too big for the repo – get them from the OneDrive zip
+Fitzpatrick17k_CNN_Images/
+Fitzpatrick17k_processed/images/
+*.zip
 __marimo__/
 
 # Streamlit
