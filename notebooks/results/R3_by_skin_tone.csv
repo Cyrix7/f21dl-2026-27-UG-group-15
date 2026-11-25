@@ -1,0 +1,13 @@
+model,skin tone,n,accuracy,macro_f1
+kNN,light (1-2),108,0.556,0.426
+kNN,medium (3-4),94,0.383,0.368
+kNN,dark (5-6),36,0.472,0.268
+kNN,unknown,6,0.667,0.656
+NaiveBayes,light (1-2),108,0.389,0.26
+NaiveBayes,medium (3-4),94,0.404,0.309
+NaiveBayes,dark (5-6),36,0.444,0.272
+NaiveBayes,unknown,6,0.167,0.167
+LogisticRegression,light (1-2),108,0.38,0.34
+LogisticRegression,medium (3-4),94,0.415,0.361
+LogisticRegression,dark (5-6),36,0.417,0.42
+LogisticRegression,unknown,6,0.167,0.2

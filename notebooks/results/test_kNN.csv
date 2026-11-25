@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,params,P_ACD,R_ACD,P_BCC,R_BCC,P_Psor,R_Psor,P_SebD,R_SebD,P_Vit,R_Vit
+kNN,0.4795,0.4282,"{""pca"": 50, ""n_neighbors"": 1, ""weights"": ""distance"", ""metric"": ""euclidean""}",0.415,0.386,0.452,0.519,0.574,0.6,0.238,0.263,0.571,0.333

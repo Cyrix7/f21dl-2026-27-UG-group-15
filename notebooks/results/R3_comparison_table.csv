@@ -1,0 +1,8 @@
+model,test_macro_f1,test_accuracy,R_ACD,R_BCC,R_Psor,R_SebD,R_Vit,params
+RandomForest,0.4329,0.4959,0.316,0.593,0.633,0.211,0.417,"{""n_estimators"": 200, ""max_features"": 0.1, ""min_samples_leaf"": 1, ""class_weight"": ""balanced""}"
+kNN,0.4282,0.4795,0.386,0.519,0.6,0.263,0.333,"{""pca"": 50, ""n_neighbors"": 1, ""weights"": ""distance"", ""metric"": ""euclidean""}"
+LogisticRegression,0.3634,0.3934,0.211,0.648,0.344,0.474,0.375,"{""pca"": null, ""C"": 0.0003}"
+DecisionTree,0.3074,0.3648,0.351,0.37,0.456,0.158,0.208,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""criterion"": ""gini""}"
+NaiveBayes,0.2889,0.3975,0.088,0.796,0.467,0.0,0.292,"{""pca"": 20, ""var_smoothing"": 1e-06, ""priors"": ""empirical""}"
+Baseline (stratified),0.1966,0.2418,,,,,,
+Baseline (most_frequent),0.1078,0.3689,,,,,,

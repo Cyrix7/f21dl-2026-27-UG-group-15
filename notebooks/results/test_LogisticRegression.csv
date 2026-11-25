@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,params,P_ACD,R_ACD,P_BCC,R_BCC,P_Psor,R_Psor,P_SebD,R_SebD,P_Vit,R_Vit
+LogisticRegression,0.3934,0.3634,"{""pca"": null, ""C"": 0.0003}",0.375,0.211,0.53,0.648,0.574,0.344,0.191,0.474,0.2,0.375
