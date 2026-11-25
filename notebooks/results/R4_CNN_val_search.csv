@@ -1,0 +1,5 @@
+lr,flips,best_epoch,train_macro_f1,val_macro_f1,minutes
+0.001,True,23,0.545,0.527,16.8
+0.001,False,13,0.549,0.549,11.0
+0.0003,True,13,0.478,0.484,7.5
+0.0003,False,13,0.52,0.498,3.9

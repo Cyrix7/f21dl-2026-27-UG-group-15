@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,params,P_ACD,R_ACD,P_BCC,R_BCC,P_Psor,R_Psor,P_SebD,R_SebD,P_Vit,R_Vit
+MLP,0.4918,0.4516,"{""hidden"": ""(256,)"", ""lr"": 0.0001, ""dropout"": 0.5, ""best_epoch"": 27}",0.451,0.404,0.579,0.611,0.595,0.522,0.257,0.474,0.364,0.333
