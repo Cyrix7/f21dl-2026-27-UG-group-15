@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,params,P_ACD,R_ACD,P_BCC,R_BCC,P_Psor,R_Psor,P_SebD,R_SebD,P_Vit,R_Vit
+DecisionTree,0.3648,0.3074,"{""max_depth"": 20, ""min_samples_leaf"": 1, ""criterion"": ""gini""}",0.364,0.351,0.357,0.37,0.477,0.456,0.136,0.158,0.2,0.208

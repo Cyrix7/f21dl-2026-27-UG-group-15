@@ -1,0 +1,2 @@
+model,test_accuracy,test_macro_f1,params,P_ACD,R_ACD,P_BCC,R_BCC,P_Psor,R_Psor,P_SebD,R_SebD,P_Vit,R_Vit
+RandomForest,0.4959,0.4329,"{""n_estimators"": 200, ""max_features"": 0.1, ""min_samples_leaf"": 1, ""class_weight"": ""balanced""}",0.419,0.316,0.593,0.593,0.548,0.633,0.222,0.211,0.4,0.417
